@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "JDBC"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\vn0t09b\\.DbSchema\\drivers\\Access\\commons-lang3-3.8.1.jar",
+        "c:\\Users\\vn0t09b\\.DbSchema\\drivers\\Access\\commons-logging-1.2.jar",
+        "c:\\Users\\vn0t09b\\.DbSchema\\drivers\\Access\\hsqldb-2.5.0.jar",
+        "c:\\Users\\vn0t09b\\.DbSchema\\drivers\\Access\\jackcess-3.0.1.jar",
+        "c:\\Users\\vn0t09b\\.DbSchema\\drivers\\Access\\ucanaccess-5.0.1.jar"
+    ]
+}
